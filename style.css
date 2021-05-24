@@ -113,6 +113,11 @@ footer {
 .footer-bottom a {
   padding: 15px;
   color: #70757a;
+  
+}
+
+#leaf-link {
+  padding: 0;
 }
 
 #france {
